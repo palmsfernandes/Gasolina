@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\Desktop\CSharp\Gasolina\Gasolina\bin\Debug\Gasolina.exe.config
+C:\Users\vinicius.fernandes\Desktop\CSharp\Gasolina\Gasolina\bin\Debug\Gasolina.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\Gasolina\Gasolina\bin\Debug\Gasolina.pdb
+C:\Users\vinicius.fernandes\Desktop\CSharp\Gasolina\Gasolina\obj\Debug\Gasolina.exe
+C:\Users\vinicius.fernandes\Desktop\CSharp\Gasolina\Gasolina\obj\Debug\Gasolina.pdb
+C:\Users\vinicius.fernandes\Desktop\CSharp\Gasolina\Gasolina\obj\Debug\Gasolina.csprojAssemblyReference.cache
